@@ -106,6 +106,91 @@
 > 802.11ac
 #### What is the IPv4 address of the PC? Note: This information is not available in the Networking tab in Windows 7. 
 > 10.11.46.184
-#### 
+#### What effect does this have on the columns? 
+> They are now sorted by memory usage.
+#### What affect does this have on the Memory column?
+> It now show percentages of memory per process instead of showing MB of memory per process.
+#### How could this be useful? 
+> Well to show the data in a more human readable way that allows you to see how much of the total memory is being used by each process.
+#### The listed processes are divided by categories. What categories are listed? 
+> Apps, Background processes, Windows Processes.
+#### Right-click a username. What are the available options? 
+> Expand, Disconnect, Manage user accounts.
+#### The Startup tab lists the processes that are started automatically during Windows startup. Click the Startup tab. Right-click a process and list the available options below. 
+> Expand, Disable, Open file location, Search online, properties.
+#### What type of information can you get from this list?
+> CPU time, Network, Metered network, Tile updates.
+#### The Details tab displays process information such as process ID (PID), status, and memory utilization. Right-click a process and list the available options below. 
+> End task, Provide feedback, End process tree, Set priority, Set affinity, Analyse wait chain, UAC virtualisation, Create dump file, Open file location, Search online, Properties, Go to service(s).
+#### Why is it important for an administrator to understand how to work within the Task Manager? 
+> To analyze what processes are running on a computer and what resources they are using.
+
+### Lab 11.1.4.11
+#### What happened with Folder1 and Folder2 on the Desktop? 
+> Folder 2 is no longer visible on the desktop because it is inside Folder 1.
+#### What is the file extension for the text document? 
+> .txt
+#### How would you do it? 
+> Copy and then paste inside the folder.
+#### What are the attributes associated with this file? 
+> A
+#### What is the complete path to Folder3?
+> C:\Users\alexa\Desktop\Folder1\Folder2\
+#### In Windows 8.x and 10, which directories are listed under Folders? 
+> Skil ekki en kannski 3D Objects, Desktop, Documents, Downloads, Music etc. eða Users, Program files og það.
+####  What happened? Why would you want to do this? 
+> It is now visible on the left side as soon as you open the file explorer, making it easyer to access.
+#### What are folders listed in the Local Disk (C:)? 
+> Notaði kommand til þess að kópera þetta því þessi löb eru bara svo mikið skrifsl á hlutum sem er ekki hægt að kópera. 
+
+    Directory: C:\
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+d-----       10/08/2019     00:25                Intel                                                                 
+d-----       19/03/2019     04:52                PerfLogs                                                              
+d-r---       07/02/2020     15:04                Program Files                                                         
+d-r---       07/02/2020     15:07                Program Files (x86)                                                   
+d-----       30/01/2020     15:06                Riot Games                                                            
+da----       09/08/2019     20:38                SWSetup                                                               
+d-r---       26/11/2019     15:03                Users                                                                 
+d-----       28/02/2020     18:41                Windows                                                               
+
+#### Open the Users folder. List all the folders in the directory. 
+> Gerði það sama eða dir | clip
+
+    Directory: C:\users
 
 
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+d-----       21/02/2020     11:16                alexa                                                                 
+d-----       26/11/2019     15:03                defaultuser100000                                                     
+d-r---       22/10/2019     10:14                Public                                                                
+
+#### Were you able to open it? Explain. 
+> Yes.
+#### Open the folder associated with another username if it is available on the PC. Were you able to open it? Explain? 
+> My account is a adminstrator so.
+#### Open the Public folder. List all the folders in the directory. 
+> Aftur dir | clip.
+
+    Directory: C:\users\public
+
+
+Mode                LastWriteTime         Length Name                                                                  
+----                -------------         ------ ----                                                                  
+d-r---       22/10/2019     10:27                Documents                                                             
+d-r---       11/04/2018     23:38                Downloads                                                             
+d-r---       11/04/2018     23:38                Music                                                                 
+d-r---       11/04/2018     23:38                Pictures                                                              
+d-----       14/10/2018     21:03                Roaming                                                               
+d-r---       11/04/2018     23:38                Videos                                                                
+-a----       19/08/2019     10:59           8192 NTUSER.DAT                                                            
+
+#### Which folders or files listed under the Libraries heading? 
+> Videos, Documents, Pictures, Music.
+#### How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer? 
+> By quick formatting the computer, it removes everything from the library.
+
+# Talvan mín er að deyja og ég get hlaðið hana á morgun, ég held áfram þá.

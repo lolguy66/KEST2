@@ -83,4 +83,29 @@
 #### What happened? 
 > It closed.
 #### What options are available? 
->
+> Expand, Switch to, End task, Provide feedback, Resource values, Debug, Create dump file, Go to details, Open file location, Search online, Properties.
+#### What statuses are listed? 
+> Name, PID, Description, Status, Group.
+#### What are the available actions that can be taken? 
+> Start, Stop, Restart, Open services, Search online, Go to details.
+#### What is the current utilization of the CPU? 
+> 18%.
+#### How many streams of instructions (i.e. Threads) are currently running?
+> 4686
+#### How many Apps, Background processes, and Windows processes (i.e Processes) are currently running? 
+> 307
+#### What is the total physical memory (MB)? 
+> 7000 MB
+#### What is the available physical memory (MB)? 
+> 1200 MB
+#### How much physical memory (MB) is being used by the computer?
+> 5800 MB
+#### What is the link speed? What type of Ethernet Adapter is in use on this computer? 
+> 8 Kbps, Intel(R) Dual Band Wireless-AC 3168.
+#### What type of network connection (i.e Connection type) is in use? 
+> 802.11ac
+#### What is the IPv4 address of the PC? Note: This information is not available in the Networking tab in Windows 7. 
+> 10.11.46.184
+#### 
+
+
